@@ -1,0 +1,16 @@
+/* Custom styles */
+.blog-card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.blog-card:hover {
+    transform: translateY(-4px);
+}
+
+.featured-card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.featured-card:hover {
+    transform: translateY(-4px);
+}
